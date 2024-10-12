@@ -14,7 +14,7 @@ using namespace std;
 
 void menu()
 {
-	printf("1.Create    2.Insert\n");
+	printf("1.Create    t\n");
 	printf("3.Delete    4.SearchKey\n");
 	printf("5.GetElem   6.Display\n");
 	printf("7.Destroy   8.SetValue\n");
